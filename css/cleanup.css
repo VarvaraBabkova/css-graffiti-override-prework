@@ -12,6 +12,6 @@
   display: none;
 }
 
-#wall .parent:nth-of-type(2) #tag-5 .slick {
+#wall .parent:nth-of-type(2) {
   display: none;
 }
